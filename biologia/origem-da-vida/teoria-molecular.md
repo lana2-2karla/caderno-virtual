@@ -45,13 +45,13 @@ fossem **formadas espontaneamente** na superfície terrestre.
 Essas moléculas:
 
 - **Precipitavam com as chuvas** e se acumulavam em regiões da superfície
-- A **queda constante de compostos orgânicos** retirava energia da superfície, ajudando no **resfriamento e solidificação** da crosta terrestre
 
 ---
 
 ## 5. O "Sopão de Oparin" e os Oceanos Primitivos
 
-Com o tempo, as chuvas deram origem aos **oceanos primitivos**, onde essas moléculas se:
+Com o tempo, a solidificação da crosta terrestre
+e as chuvas deram origem aos **oceanos primitivos**, onde essas moléculas se:
 
 - **Concentraram**
 - **Conglomeraram**
@@ -77,17 +77,15 @@ Ele criou um ambiente laboratorial com:
 
 Após alguns dias, observou-se a **formação espontânea de aminoácidos**.
 
-> 🔬 **Conclusão**: Moléculas orgânicas podem surgir a partir de compostos simples sob condições adequadas.
-
 Esse experimento **fortaleceu a teoria** da **evolução química da vida**, demonstrando sua **viabilidade em laboratório**.
 
 ---
 
 ## 🧪 Ilustração do Experimento de Miller-Urey
 
-![Experimento de Miller-Urey](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Miller_Urey_experiment-en.svg/1920px-Miller_Urey_experiment-en.svg.png)
+![Experimento de Miller-Urey](https://static.todamateria.com.br/upload/ex/pe/experimentodemillerurey-cke.jpg)
 
-Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miller_Urey_experiment-en.svg)
+Fonte: [Toda Matéria](https://www.todamateria.com.br/experimento-de-miller-urey-qual-o-objetivo-como-funciona-e-resultados/)
 
 ---
 
